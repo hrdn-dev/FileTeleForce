@@ -22,7 +22,8 @@ Saya tidak bertanggung jawab atas penyalahgunaan bot ini.
 
 ## 🛡 Installation
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)
+<br>Fork dulu sebelum deploy</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
 
 ### Variables
